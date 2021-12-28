@@ -10,6 +10,7 @@
         <module name="cloud_consumerzk_order80" />
         <module name="cloud-payment-feign-hystrix-order80" />
         <module name="cloud-eureka-server-7001" />
+        <module name="git-test" />
         <module name="cloud-gateway-gateway9527" />
         <module name="cloud-api-commons" />
         <module name="cloud_provider_pavment8004" />
@@ -33,6 +34,7 @@
       <module name="cloud_consumerzk_order80" target="12" />
       <module name="cloud_provider_pavment8001" target="12" />
       <module name="cloud_provider_pavment8004" target="12" />
+      <module name="git-test" target="15" />
     </bytecodeTargetLevel>
   </component>
 </project>

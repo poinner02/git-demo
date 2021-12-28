@@ -19,6 +19,7 @@
       <module>cloud-payment-feign-hystrix-order80</module>
       <module>cloud-consumer-hystrix-dashboard9001</module>
       <module>cloud-gateway-gateway9527</module>
+      <module>git-test</module>
   </modules>
   <packaging>pom</packaging>
 

@@ -14,6 +14,7 @@
       <module fileurl="file://$PROJECT_DIR$/cloud_consumerzk_order80/cloud_consumerzk_order80.iml" filepath="$PROJECT_DIR$/cloud_consumerzk_order80/cloud_consumerzk_order80.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud_provider_pavment8001/cloud_provider_pavment8001.iml" filepath="$PROJECT_DIR$/cloud_provider_pavment8001/cloud_provider_pavment8001.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud_provider_pavment8004/cloud_provider_pavment8004.iml" filepath="$PROJECT_DIR$/cloud_provider_pavment8004/cloud_provider_pavment8004.iml" />
+      <module fileurl="file://$PROJECT_DIR$/git-test/git-test.iml" filepath="$PROJECT_DIR$/git-test/git-test.iml" />
     </modules>
   </component>
 </project>
