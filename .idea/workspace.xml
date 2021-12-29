@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="506fb8a2-7551-4f99-ae21-d06b9c1feaca" name="Default Changelist" comment="cloud-config-server version(1.0)">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cloud-config-center-3344/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-config-center-3344/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-config-center-3344/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-config-center-3344/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +44,12 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
+  </component>
+  <component name="GiteeDefaultAccount">
+    <option name="defaultAccountId" value="cc415909-2909-47ba-ae6c-b6d219c2649f" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="c62b4327-ba07-44c3-8879-c7a7ea6c3d59" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="jar://D:/devInstall/repository/com/netflix/hystrix/hystrix-javanica/1.5.18/hystrix-javanica-1.5.18.jar!/com/netflix/hystrix/contrib/javanica/annotation/HystrixProperty.class" root0="FORCE_HIGHLIGHTING" />
@@ -89,7 +96,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.16009852" />
     <property name="project.structure.side.proportion" value="0.19098145" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="com.gitee.ui.GiteeSettingsConfigurable" />
   </component>
   <component name="ReactorSettings">
     <option name="notificationShown" value="true" />
@@ -271,19 +278,19 @@
       <item itemvalue="Spring Boot.PaymentHystrixMain8001" />
       <item itemvalue="Spring Boot.OrderFeignMain80" />
       <item itemvalue="Spring Boot.OrderMainApp80" />
+      <item itemvalue="Spring Boot.EurekaMain7001" />
       <item itemvalue="Spring Boot.EurekaMain7002" />
       <item itemvalue="Spring Boot.OrderHystrixMain80" />
       <item itemvalue="Spring Boot.HystrixDashboardMain9001" />
       <item itemvalue="Spring Boot.ConfigCenterMain3344" />
-      <item itemvalue="Spring Boot.EurekaMain7001" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Spring Boot.ConfigCenterMain3344" />
         <item itemvalue="Spring Boot.HystrixDashboardMain9001" />
         <item itemvalue="Spring Boot.OrderHystrixMain80" />
-        <item itemvalue="HTTP Request.generated-requests#3" />
         <item itemvalue="Spring Boot.EurekaMain7002" />
+        <item itemvalue="HTTP Request.generated-requests#3" />
       </list>
     </recent_temporary>
   </component>
