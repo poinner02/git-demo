@@ -22,12 +22,14 @@
         <module name="cloud_provider_pavment8002" />
         <module name="cloud-provider-hystrix-payment8001" />
         <module name="cloud-consumer-order80" />
+        <module name="cloud-config-client-3355" />
         <module name="cloud-consumer-feign-order80" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="cloud-api-commons" target="12" />
       <module name="cloud-config-center-3344" target="12" />
+      <module name="cloud-config-client-3355" target="12" />
       <module name="cloud-consumer-feign-order80" target="12" />
       <module name="cloud-consumer-hystrix-dashboard9001" target="12" />
       <module name="cloud-consumer-order80" target="12" />
