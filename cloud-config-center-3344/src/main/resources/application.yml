@@ -12,8 +12,8 @@ spring:
           ####搜索目录
           search-paths:
             - springcloud-config
-          username: 961208477@qq.com
-          password: chenzhongbo88125
+#          username: 961208477@qq.com
+#          password: chenzhongbo88125
       ####读取分支
       label: master
 
